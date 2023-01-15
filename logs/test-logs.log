@@ -1,0 +1,489 @@
+
+16:26:58.893 [main] INFO  org.example.TestPageTile - page title validate success
+16:27:02.483 [main] INFO  org.example.Page.HomePage - shopping cart is displayed
+16:41:38.229 [main] INFO  org.example.Page.HomePage - shopping cart is displayed
+16:41:38.380 [main] INFO  org.example.Page.HomePage - hover over success
+16:41:38.470 [main] INFO  org.example.TestShoppingCart - text shopping cart is displayed
+16:51:59.449 [main] INFO  org.example.Page.HomePage - shopping cart is displayed
+16:51:59.611 [main] INFO  org.example.Page.HomePage - hover over success
+16:51:59.684 [main] INFO  org.example.TestShoppingCart - You have no items in your shopping cart.
+16:51:59.707 [main] INFO  org.example.TestShoppingCart - text shopping cart is displayed
+18:20:31.437 [main] INFO  org.example.TestPageTile - page title validate success
+18:23:12.696 [main] INFO  org.example.TestPageTile - nopCommerce demo store
+18:23:12.745 [main] INFO  org.example.TestPageTile - page title validate success
+19:15:34.824 [main] INFO  org.example.Page.HomePage - field wishlist is displayed
+19:15:36.420 [main] INFO  org.example.Page.HomePage - click on field wishlist success
+19:15:37.321 [main] INFO  org.example.TestWishList - wishlist text is displayed
+19:17:28.362 [main] INFO  org.example.Page.HomePage - field wishlist is displayed
+19:17:29.179 [main] INFO  org.example.Page.HomePage - click on field wishlist success
+19:17:29.853 [main] INFO  org.example.TestWishList - Wishlist
+19:17:29.927 [main] INFO  org.example.TestWishList - wishlist text is displayed
+19:23:18.617 [main] INFO  org.example.Page.HomePage - field shopping cart is displayed
+19:23:18.805 [main] INFO  org.example.Page.HomePage - hover over success
+19:23:18.852 [main] INFO  org.example.TestShoppingCart - You have no items in your shopping cart.
+19:23:19.577 [main] INFO  org.example.TestShoppingCart - text shopping cart is displayed
+23:23:21.632 [main] INFO  org.example.Page.HomePage - Field register is displayed
+23:23:22.559 [main] INFO  org.example.Page.HomePage - register is clicked
+23:23:22.662 [main] INFO  org.example.Page.HomePage - Male is clicked
+23:23:23.624 [main] INFO  org.example.Page.HomePage - first name is typed
+23:23:23.779 [main] INFO  org.example.Page.HomePage - last name is typed
+23:23:23.919 [main] INFO  org.example.Page.HomePage - email is typed
+23:23:24.041 [main] INFO  org.example.Page.HomePage - 25 is selected
+23:23:24.162 [main] INFO  org.example.Page.HomePage - july is selected
+23:23:24.304 [main] INFO  org.example.Page.HomePage - 1992 is selected
+23:23:24.384 [main] INFO  org.example.Page.HomePage - newsletter is clicked
+23:23:24.537 [main] INFO  org.example.Page.HomePage - password is typed
+23:23:24.679 [main] INFO  org.example.Page.HomePage - confirm password is typed
+17:19:07.339 [main] INFO  org.example.Page.HomePage - field login is displayed
+17:19:08.224 [main] INFO  org.example.Page.HomePage - click on login success
+17:22:45.383 [main] INFO  org.example.Page.HomePage - field login is displayed
+17:22:46.327 [main] INFO  org.example.Page.HomePage - click on login success
+17:22:46.341 [main] INFO  org.example.Page.HomePage - url login page success
+17:22:46.439 [main] INFO  org.example.Page.HomePage - email is typed successfully
+17:22:46.519 [main] INFO  org.example.Page.HomePage - password is typed successfully
+17:22:46.893 [main] INFO  org.example.Page.HomePage - login on home page success
+17:39:49.681 [main] INFO  org.example.Page.HomePage - field login is displayed
+17:39:50.626 [main] INFO  org.example.Page.HomePage - click on login success
+17:39:50.643 [main] INFO  org.example.Page.HomePage - url login page success
+17:39:50.737 [main] INFO  org.example.Page.HomePage - email is typed successfully
+17:39:50.819 [main] INFO  org.example.Page.HomePage - password is typed successfully
+17:39:51.207 [main] INFO  org.example.Page.HomePage - login on home page success
+18:25:54.916 [main] INFO  org.example.Page.HomePage - field login is displayed
+18:25:55.842 [main] INFO  org.example.Page.HomePage - click on login success
+18:25:55.858 [main] INFO  org.example.Page.HomePage - url login page success
+18:25:55.947 [main] INFO  org.example.Page.HomePage - email is typed successfully
+18:25:56.025 [main] INFO  org.example.Page.HomePage - password is typed successfully
+18:25:56.384 [main] INFO  org.example.Page.HomePage - login on home page success
+18:28:55.181 [main] INFO  org.example.TestSelectionBTN - select button is displayed
+18:28:57.163 [main] INFO  org.example.TestSelectionBTN - euro money is selected
+18:33:11.752 [main] INFO  org.example.Page.HomePage - field login is displayed
+18:33:12.719 [main] INFO  org.example.Page.HomePage - click on login success
+18:33:12.735 [main] INFO  org.example.Page.HomePage - url login page success
+18:33:12.830 [main] INFO  org.example.Page.HomePage - email is typed successfully
+18:33:12.910 [main] INFO  org.example.Page.HomePage - password is typed successfully
+18:33:13.320 [main] INFO  org.example.Page.HomePage - login on home page success
+18:33:13.383 [main] INFO  org.example.TestSelectionBTN - select button is displayed
+18:33:14.761 [main] INFO  org.example.TestSelectionBTN - euro money is selected
+19:33:05.948 [main] INFO  org.example.Page.HomePage - field login is displayed
+19:33:06.432 [main] INFO  org.example.Page.HomePage - click on login success
+19:33:06.449 [main] INFO  org.example.Page.HomePage - url login page success
+19:33:06.517 [main] INFO  org.example.TestLoginWithoutCredentials - email empty
+19:33:06.589 [main] INFO  org.example.TestLoginWithoutCredentials - password empty
+19:33:06.662 [main] INFO  org.example.TestLoginWithoutCredentials - click pn button login success
+19:33:06.712 [main] INFO  org.example.TestLoginWithoutCredentials - error email message is displayed
+20:05:26.543 [main] INFO  org.example.Page.HomePage - field login is displayed
+20:05:27.461 [main] INFO  org.example.Page.HomePage - click on login success
+20:05:27.480 [main] INFO  org.example.Page.HomePage - url login page success
+20:05:27.559 [main] INFO  org.example.TestLoginWithWrongEmail - wrong email is typed
+20:05:27.637 [main] INFO  org.example.TestLoginWithWrongEmail - password empty
+20:05:27.704 [main] INFO  org.example.TestLoginWithWrongEmail - click on button login success
+20:05:27.754 [main] INFO  org.example.TestLoginWithWrongEmail - wrong email message is displayed
+20:26:08.837 [main] INFO  org.example.Page.HomePage - field login is displayed
+20:26:09.754 [main] INFO  org.example.Page.HomePage - click on login success
+20:26:09.770 [main] INFO  org.example.Page.HomePage - url login page success
+20:26:09.875 [main] INFO  org.example.TestLoginWithWrongPassword -  email is typed success
+20:26:09.960 [main] INFO  org.example.TestLoginWithWrongPassword - wrong password is typed 
+20:26:10.343 [main] INFO  org.example.TestLoginWithWrongPassword - click on button login success
+20:26:10.410 [main] INFO  org.example.TestLoginWithWrongPassword - error message is displayed
+20:27:39.941 [main] INFO  org.example.Page.HomePage - field login is displayed
+20:27:40.863 [main] INFO  org.example.Page.HomePage - click on login success
+20:27:40.880 [main] INFO  org.example.Page.HomePage - url login page success
+20:27:40.973 [main] INFO  org.example.TestLoginWithWrongPassword -  email is typed success
+20:27:41.056 [main] INFO  org.example.TestLoginWithWrongPassword - wrong password is typed 
+20:27:41.477 [main] INFO  org.example.TestLoginWithWrongPassword - click on button login success
+20:27:41.533 [main] INFO  org.example.TestLoginWithWrongPassword - Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+20:27:41.550 [main] INFO  org.example.TestLoginWithWrongPassword - error message is displayed
+22:43:25.462 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:43:26.328 [main] INFO  org.example.Page.HomePage - click on login success
+22:43:26.346 [main] INFO  org.example.Page.HomePage - url login page success
+22:43:26.446 [main] INFO  org.example.Page.HomePage - email is typed successfully
+22:43:26.543 [main] INFO  org.example.Page.HomePage - password is typed successfully
+22:43:26.955 [main] INFO  org.example.Page.HomePage - login on home page success
+22:43:27.017 [main] INFO  org.example.Page.HomePage - search button is displayed
+22:43:27.096 [main] INFO  org.example.TestSearch - computer is typed
+22:43:27.541 [main] INFO  org.example.TestSearch - button search is clicked 
+23:11:06.334 [main] INFO  org.example.Page.HomePage - field login is displayed
+23:11:07.255 [main] INFO  org.example.Page.HomePage - click on login success
+23:11:07.272 [main] INFO  org.example.Page.HomePage - url login page success
+23:11:07.361 [main] INFO  org.example.Page.HomePage - email is typed successfully
+23:11:07.440 [main] INFO  org.example.Page.HomePage - password is typed successfully
+23:11:07.794 [main] INFO  org.example.Page.HomePage - login on home page success
+23:11:07.863 [main] INFO  org.example.Page.HomePage - search button is displayed
+23:11:11.981 [main] INFO  org.example.TestSuggestionDropDown - Apple MacBook Pro 13-inch is selected
+23:14:49.544 [main] INFO  org.example.Page.HomePage - field login is displayed
+23:14:50.475 [main] INFO  org.example.Page.HomePage - click on login success
+23:14:50.490 [main] INFO  org.example.Page.HomePage - url login page success
+23:14:50.581 [main] INFO  org.example.Page.HomePage - email is typed successfully
+23:14:50.664 [main] INFO  org.example.Page.HomePage - password is typed successfully
+23:14:51.038 [main] INFO  org.example.Page.HomePage - login on home page success
+23:14:51.102 [main] INFO  org.example.Page.HomePage - search button is displayed
+23:14:55.243 [main] INFO  org.example.TestSuggestionDropDown - Apple MacBook Pro 13-inch is selected
+23:14:55.298 [main] INFO  org.example.Page.HomePage - picture Apple MacBook Pro 13-inch is displayed
+19:12:26.839 [main] INFO  org.example.Page.HomePage - field login is displayed
+19:12:27.728 [main] INFO  org.example.Page.HomePage - click on login success
+19:12:27.743 [main] INFO  org.example.Page.HomePage - url login page success
+19:12:27.847 [main] INFO  org.example.Page.HomePage - email is typed successfully
+19:12:27.939 [main] INFO  org.example.Page.HomePage - password is typed successfully
+19:12:28.637 [main] INFO  org.example.Page.HomePage - login on home page success
+19:12:28.706 [main] INFO  org.example.Page.HomePage - search button is displayed
+19:12:32.553 [main] INFO  org.example.TestSuggestionDropDown - Apple MacBook Pro 13-inch is selected
+19:12:32.609 [main] INFO  org.example.Page.HomePage - picture Apple MacBook Pro 13-inch is displayed
+23:03:59.598 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+23:04:02.170 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+23:04:02.327 [main] INFO  org.example.TestPurchaseGiftCards - position A to Z selected
+23:04:02.432 [main] INFO  org.example.TestPurchaseGiftCards - display 6 per page selected
+23:07:03.309 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+23:07:04.423 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+23:07:04.571 [main] INFO  org.example.TestPurchaseGiftCards - position A to Z selected
+23:07:04.680 [main] INFO  org.example.TestPurchaseGiftCards - display 6 per page selected
+23:13:58.175 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+23:13:59.160 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+23:13:59.295 [main] INFO  org.example.TestPurchaseGiftCards - position A to Z selected
+23:13:59.397 [main] INFO  org.example.TestPurchaseGiftCards - display 6 per page selected
+23:17:31.422 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+23:17:32.826 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+23:17:32.986 [main] INFO  org.example.TestPurchaseGiftCards - position A to Z selected
+23:17:33.086 [main] INFO  org.example.TestPurchaseGiftCards - display 6 per page selected
+23:21:25.180 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+23:21:26.296 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+23:21:26.438 [main] INFO  org.example.TestPurchaseGiftCards - position A to Z selected
+23:21:26.542 [main] INFO  org.example.TestPurchaseGiftCards - display 6 per page selected
+23:30:02.077 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+23:30:03.599 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+23:30:03.753 [main] INFO  org.example.TestPurchaseGiftCards - position A to Z selected
+23:30:03.854 [main] INFO  org.example.TestPurchaseGiftCards - display 6 per page selected
+23:48:38.204 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+23:48:39.199 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+23:48:39.343 [main] INFO  org.example.TestPurchaseGiftCards - position A to Z selected
+23:48:39.449 [main] INFO  org.example.TestPurchaseGiftCards - display 6 per page selected
+23:57:20.724 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+23:57:21.728 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+23:57:21.793 [main] INFO  org.example.Page.HomePage - click on add to cart gift success
+00:04:03.604 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+00:04:06.126 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+00:04:06.235 [main] INFO  org.example.TestPurchaseGiftCards - display 6 per page selected
+00:04:06.286 [main] INFO  org.example.Page.HomePage - click on add to cart gift success
+00:04:07.718 [main] INFO  org.example.TestPurchaseGiftCards - amar is typed
+00:04:07.816 [main] INFO  org.example.TestPurchaseGiftCards - hamadache is typed
+00:04:07.870 [main] INFO  org.example.Page.HomePage - Add to Cart is clicked
+00:04:07.871 [main] INFO  org.example.TestPurchaseGiftCards - click to Add to cart is confirmed
+00:06:16.190 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+00:06:17.149 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+00:06:17.256 [main] INFO  org.example.TestPurchaseGiftCards - display 6 per page selected
+00:06:17.313 [main] INFO  org.example.Page.HomePage - click on add to cart gift success
+00:06:18.652 [main] INFO  org.example.TestPurchaseGiftCards - amar is typed
+00:06:18.751 [main] INFO  org.example.TestPurchaseGiftCards - hamadache is typed
+00:06:18.808 [main] INFO  org.example.Page.HomePage - Add to Cart is clicked
+00:06:18.808 [main] INFO  org.example.TestPurchaseGiftCards - click to Add to cart is confirmed
+00:06:19.161 [main] INFO  org.example.TestPurchaseGiftCards - 1 purchase is displayed on shopping cart
+01:13:59.665 [main] INFO  org.example.TestSelectRedShoes - Apparel is displayed
+01:13:59.813 [main] INFO  org.example.TestSelectRedShoes - hover over Apparel success
+01:14:01.497 [main] INFO  org.example.TestSelectRedShoes - shoes clicked success
+01:14:01.627 [main] INFO  org.example.Page.HomePage - red color is selected
+01:14:01.694 [main] INFO  org.example.TestSelectRedShoes - red shoes is displayed
+16:56:15.882 [main] INFO  org.example.Page.HomePage - field login is displayed
+16:56:17.503 [main] INFO  org.example.Page.HomePage - click on login success
+16:56:17.519 [main] INFO  org.example.Page.HomePage - url login page success
+16:56:17.607 [main] INFO  org.example.Page.HomePage - email is typed successfully
+16:56:17.684 [main] INFO  org.example.Page.HomePage - password is typed successfully
+16:56:18.067 [main] INFO  org.example.Page.HomePage - login on home page success
+16:56:18.132 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+16:56:18.188 [main] INFO  org.example.TestHeaderDisplay - Jewelry is displayed
+16:56:18.236 [main] INFO  org.example.TestHeaderDisplay - books is displayed
+16:56:18.288 [main] INFO  org.example.TestHeaderDisplay - digital downloads is displayed
+16:56:18.340 [main] INFO  org.example.TestHeaderDisplay - Apparel is displayed
+16:56:18.387 [main] INFO  org.example.TestHeaderDisplay - electronics is displayed
+16:56:18.430 [main] INFO  org.example.TestHeaderDisplay - electronics is displayed
+17:36:16.521 [main] INFO  org.example.Page.HomePage - field login is displayed
+17:36:17.386 [main] INFO  org.example.Page.HomePage - click on login success
+17:36:17.404 [main] INFO  org.example.Page.HomePage - url login page success
+17:36:17.499 [main] INFO  org.example.Page.HomePage - email is typed successfully
+17:36:17.582 [main] INFO  org.example.Page.HomePage - password is typed successfully
+17:36:17.967 [main] INFO  org.example.Page.HomePage - login on home page success
+17:36:18.027 [main] INFO  org.example.TestHeaderGetText - text gift cards is got successfully
+17:36:18.070 [main] INFO  org.example.TestHeaderGetText - Jewelry is got successfully 
+17:36:18.115 [main] INFO  org.example.TestHeaderGetText - books is got successfully
+17:36:18.157 [main] INFO  org.example.TestHeaderGetText - digital downloads is got successfully
+17:36:18.211 [main] INFO  org.example.TestHeaderGetText - Apparel is got successfully
+17:36:18.256 [main] INFO  org.example.TestHeaderGetText - electronics is got successfully
+17:36:18.297 [main] INFO  org.example.TestHeaderGetText - computers is got successfully
+18:21:05.399 [main] INFO  org.example.Page.HomePage - field login is displayed
+18:21:06.342 [main] INFO  org.example.Page.HomePage - click on login success
+18:21:06.356 [main] INFO  org.example.Page.HomePage - url login page success
+18:21:06.446 [main] INFO  org.example.Page.HomePage - email is typed successfully
+18:21:06.526 [main] INFO  org.example.Page.HomePage - password is typed successfully
+18:21:06.898 [main] INFO  org.example.Page.HomePage - login on home page success
+18:21:06.952 [main] INFO  org.example.TestHeaderGetText - text gift cards is got successfully
+18:21:06.993 [main] INFO  org.example.TestHeaderGetText - Jewelry is got successfully 
+18:21:07.037 [main] INFO  org.example.TestHeaderGetText - books is got successfully
+18:21:07.079 [main] INFO  org.example.TestHeaderGetText - digital downloads is got successfully
+18:21:07.130 [main] INFO  org.example.TestHeaderGetText - Apparel is got successfully
+18:21:07.175 [main] INFO  org.example.TestHeaderGetText - electronics is got successfully
+18:21:07.215 [main] INFO  org.example.TestHeaderGetText - computers is got successfully
+18:21:11.256 [main] INFO  org.example.Page.HomePage - field login is displayed
+18:21:11.714 [main] INFO  org.example.Page.HomePage - click on login success
+18:21:11.733 [main] INFO  org.example.Page.HomePage - url login page success
+18:21:11.822 [main] INFO  org.example.Page.HomePage - email is typed successfully
+18:21:11.903 [main] INFO  org.example.Page.HomePage - password is typed successfully
+18:21:12.220 [main] INFO  org.example.Page.HomePage - login on home page success
+18:21:12.279 [main] INFO  org.example.TestFootersInformation - information is displayed
+18:21:12.325 [main] INFO  org.example.TestFootersInformation - sitemap is displayed
+18:21:12.370 [main] INFO  org.example.TestFootersInformation - shipping and returns is displayed
+18:21:12.416 [main] INFO  org.example.TestFootersInformation - privacy notice is displayed
+18:21:12.470 [main] INFO  org.example.TestFootersInformation - condition of us is displayed
+18:21:12.514 [main] INFO  org.example.TestFootersInformation - about us is displayed
+18:21:12.559 [main] INFO  org.example.TestFootersInformation - contact of us is displayed
+18:53:07.864 [main] INFO  org.example.Page.HomePage - field login is displayed
+18:53:09.584 [main] INFO  org.example.Page.HomePage - click on login success
+18:53:09.600 [main] INFO  org.example.Page.HomePage - url login page success
+18:53:09.685 [main] INFO  org.example.Page.HomePage - email is typed successfully
+18:53:09.767 [main] INFO  org.example.Page.HomePage - password is typed successfully
+18:53:10.175 [main] INFO  org.example.Page.HomePage - login on home page success
+18:53:10.230 [main] INFO  org.example.TestFootersInformationGetText - Sitemap is got success 
+18:53:10.277 [main] INFO  org.example.TestFootersInformationGetText - sitemap is got success
+18:53:10.323 [main] INFO  org.example.TestFootersInformationGetText - shipping & returns is got success
+18:53:10.367 [main] INFO  org.example.TestFootersInformationGetText - Privacy notice is got success
+18:53:10.420 [main] INFO  org.example.TestFootersInformationGetText - conditions of Use is got success
+18:53:10.464 [main] INFO  org.example.TestFootersInformationGetText - About Us is got success
+18:53:10.507 [main] INFO  org.example.TestFootersInformationGetText - Contact Us is got success
+19:33:06.887 [main] INFO  org.example.TestVote - good button is clicked
+19:33:06.951 [main] INFO  org.example.TestVote - vote is clicked success
+19:33:06.995 [main] INFO  org.example.TestVote - 
+19:34:54.527 [main] INFO  org.example.TestVote - good button is clicked
+19:34:54.606 [main] INFO  org.example.TestVote - vote is clicked success
+19:34:57.672 [main] INFO  org.example.TestVote - Only registered users can vote.
+19:34:57.697 [main] INFO  org.example.TestVote - error message is got 
+20:16:11.137 [main] INFO  org.example.TestVote - good button is clicked
+20:16:11.200 [main] INFO  org.example.TestVote - vote is clicked success
+20:16:14.261 [main] INFO  org.example.TestVote - Only registered users can vote.
+20:16:14.284 [main] INFO  org.example.TestVote - error message is got 
+20:16:18.120 [main] INFO  org.example.Page.HomePage - field login is displayed
+20:16:19.055 [main] INFO  org.example.Page.HomePage - click on login success
+20:16:19.067 [main] INFO  org.example.Page.HomePage - url login page success
+20:16:19.158 [main] INFO  org.example.Page.HomePage - email is typed successfully
+20:16:19.238 [main] INFO  org.example.Page.HomePage - password is typed successfully
+20:16:19.623 [main] INFO  org.example.Page.HomePage - login on home page success
+20:16:19.790 [main] INFO  org.example.TestComputersDesktops - hover over computers success
+20:16:20.723 [main] INFO  org.example.TestComputersDesktops - click on desktops success
+20:16:20.735 [main] INFO  org.example.TestComputersDesktops - URL page desktops success
+20:16:20.785 [main] INFO  org.example.TestComputersDesktops - Build your own computer is displayed
+20:41:17.450 [main] INFO  org.example.Page.HomePage - field login is displayed
+20:41:18.728 [main] INFO  org.example.Page.HomePage - click on login success
+20:41:18.742 [main] INFO  org.example.Page.HomePage - url login page success
+20:41:18.847 [main] INFO  org.example.Page.HomePage - email is typed successfully
+20:41:18.940 [main] INFO  org.example.Page.HomePage - password is typed successfully
+20:41:19.327 [main] INFO  org.example.Page.HomePage - login on home page success
+20:41:19.399 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+20:41:21.143 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+20:41:21.275 [main] INFO  org.example.TestReturnToHmePage - display 6 per page selected
+20:41:21.345 [main] INFO  org.example.Page.HomePage - click on add to cart gift success
+20:41:23.730 [main] INFO  org.example.TestReturnToHmePage - amar is typed
+20:41:23.829 [main] INFO  org.example.TestReturnToHmePage - hamadache is typed
+20:41:23.899 [main] INFO  org.example.Page.HomePage - Add to Cart is clicked
+20:41:23.899 [main] INFO  org.example.TestReturnToHmePage - click to Add to cart is confirmed
+20:41:24.232 [main] INFO  org.example.TestReturnToHmePage - 1 purchase is displayed on shopping cart
+20:44:48.708 [main] INFO  org.example.Page.HomePage - field login is displayed
+20:44:50.372 [main] INFO  org.example.Page.HomePage - click on login success
+20:44:50.388 [main] INFO  org.example.Page.HomePage - url login page success
+20:44:50.475 [main] INFO  org.example.Page.HomePage - email is typed successfully
+20:44:50.552 [main] INFO  org.example.Page.HomePage - password is typed successfully
+20:44:50.947 [main] INFO  org.example.Page.HomePage - login on home page success
+20:44:51.017 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+20:44:53.231 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+20:44:53.339 [main] INFO  org.example.TestReturnToHmePage - display 6 per page selected
+20:44:53.397 [main] INFO  org.example.Page.HomePage - click on add to cart gift success
+20:44:54.955 [main] INFO  org.example.TestReturnToHmePage - amar is typed
+20:44:55.071 [main] INFO  org.example.TestReturnToHmePage - hamadache is typed
+20:44:55.152 [main] INFO  org.example.Page.HomePage - Add to Cart is clicked
+20:44:55.153 [main] INFO  org.example.TestReturnToHmePage - click to Add to cart is confirmed
+20:44:55.484 [main] INFO  org.example.TestReturnToHmePage - 1 purchase is displayed on shopping cart
+21:05:33.685 [main] INFO  org.example.Page.HomePage - field login is displayed
+21:05:34.588 [main] INFO  org.example.Page.HomePage - click on login success
+21:05:34.602 [main] INFO  org.example.Page.HomePage - url login page success
+21:05:34.697 [main] INFO  org.example.Page.HomePage - email is typed successfully
+21:05:34.787 [main] INFO  org.example.Page.HomePage - password is typed successfully
+21:05:35.160 [main] INFO  org.example.Page.HomePage - login on home page success
+21:05:35.233 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+21:05:35.904 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+21:05:36.012 [main] INFO  org.example.TestReturnToHmePage - display 6 per page selected
+21:05:36.068 [main] INFO  org.example.Page.HomePage - click on add to cart gift success
+21:05:37.522 [main] INFO  org.example.TestReturnToHmePage - amar is typed
+21:05:37.621 [main] INFO  org.example.TestReturnToHmePage - hamadache is typed
+21:05:37.685 [main] INFO  org.example.Page.HomePage - Add to Cart is clicked
+21:05:37.686 [main] INFO  org.example.TestReturnToHmePage - click to Add to cart is confirmed
+21:05:37.943 [main] INFO  org.example.TestReturnToHmePage - 1 purchase is displayed on shopping cart
+22:04:26.193 [main] INFO  org.example.TestPageTile - nopCommerce demo store
+22:04:26.305 [main] INFO  org.example.TestPageTile - page title validate success
+22:04:29.788 [main] INFO  org.example.Page.HomePage - field shopping cart is displayed
+22:04:29.924 [main] INFO  org.example.Page.HomePage - hover over success
+22:04:30.010 [main] INFO  org.example.TestShoppingCart - You have no items in your shopping cart.
+22:04:30.068 [main] INFO  org.example.TestShoppingCart - text shopping cart is displayed
+22:04:33.202 [main] INFO  org.example.Page.HomePage - field wishlist is displayed
+22:04:34.091 [main] INFO  org.example.Page.HomePage - click on field wishlist success
+22:04:34.170 [main] INFO  org.example.TestWishList - Wishlist
+22:04:34.226 [main] INFO  org.example.TestWishList - wishlist text is displayed
+22:04:37.164 [main] INFO  org.example.Page.HomePage - Field register is displayed
+22:04:38.128 [main] INFO  org.example.Page.HomePage - register is clicked
+22:04:38.230 [main] INFO  org.example.Page.HomePage - Male is clicked
+22:04:38.368 [main] INFO  org.example.Page.HomePage - first name is typed
+22:04:38.494 [main] INFO  org.example.Page.HomePage - last name is typed
+22:04:38.640 [main] INFO  org.example.Page.HomePage - email is typed
+22:04:38.768 [main] INFO  org.example.Page.HomePage - 25 is selected
+22:04:38.875 [main] INFO  org.example.Page.HomePage - july is selected
+22:04:38.984 [main] INFO  org.example.Page.HomePage - 1992 is selected
+22:04:39.036 [main] INFO  org.example.Page.HomePage - newsletter is clicked
+22:04:39.171 [main] INFO  org.example.Page.HomePage - password is typed
+22:04:39.300 [main] INFO  org.example.Page.HomePage - confirm password is typed
+22:04:42.329 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:04:43.233 [main] INFO  org.example.Page.HomePage - click on login success
+22:04:43.248 [main] INFO  org.example.Page.HomePage - url login page success
+22:04:43.336 [main] INFO  org.example.Page.HomePage - email is typed successfully
+22:04:43.414 [main] INFO  org.example.Page.HomePage - password is typed successfully
+22:04:43.781 [main] INFO  org.example.Page.HomePage - login on home page success
+22:04:46.842 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:04:47.294 [main] INFO  org.example.Page.HomePage - click on login success
+22:04:47.305 [main] INFO  org.example.Page.HomePage - url login page success
+22:04:47.395 [main] INFO  org.example.Page.HomePage - email is typed successfully
+22:04:47.476 [main] INFO  org.example.Page.HomePage - password is typed successfully
+22:04:47.830 [main] INFO  org.example.Page.HomePage - login on home page success
+22:04:47.884 [main] INFO  org.example.TestSelectionBTN - select button is displayed
+22:04:48.536 [main] INFO  org.example.TestSelectionBTN - euro money is selected
+22:04:51.605 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:04:52.507 [main] INFO  org.example.Page.HomePage - click on login success
+22:04:52.522 [main] INFO  org.example.Page.HomePage - url login page success
+22:04:52.584 [main] INFO  org.example.TestLoginWithoutCredentials - email empty
+22:04:52.643 [main] INFO  org.example.TestLoginWithoutCredentials - password empty
+22:04:52.704 [main] INFO  org.example.TestLoginWithoutCredentials - click pn button login success
+22:04:52.751 [main] INFO  org.example.TestLoginWithoutCredentials - Please enter your email
+22:04:52.767 [main] INFO  org.example.TestLoginWithoutCredentials - error email message is displayed
+22:04:55.330 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:04:55.798 [main] INFO  org.example.Page.HomePage - click on login success
+22:04:55.812 [main] INFO  org.example.Page.HomePage - url login page success
+22:04:55.882 [main] INFO  org.example.TestLoginWithWrongEmail - wrong email is typed
+22:04:55.950 [main] INFO  org.example.TestLoginWithWrongEmail - password empty
+22:04:56.011 [main] INFO  org.example.TestLoginWithWrongEmail - click on button login success
+22:04:56.054 [main] INFO  org.example.TestLoginWithWrongEmail - Wrong email
+22:04:56.069 [main] INFO  org.example.TestLoginWithWrongEmail - wrong email message is displayed
+22:04:58.993 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:04:59.464 [main] INFO  org.example.Page.HomePage - click on login success
+22:04:59.477 [main] INFO  org.example.Page.HomePage - url login page success
+22:04:59.566 [main] INFO  org.example.TestLoginWithWrongPassword -  email is typed success
+22:04:59.636 [main] INFO  org.example.TestLoginWithWrongPassword - wrong password is typed 
+22:05:00.029 [main] INFO  org.example.TestLoginWithWrongPassword - click on button login success
+22:05:00.086 [main] INFO  org.example.TestLoginWithWrongPassword - Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+22:05:00.101 [main] INFO  org.example.TestLoginWithWrongPassword - error message is displayed
+22:05:02.714 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:05:03.609 [main] INFO  org.example.Page.HomePage - click on login success
+22:05:03.621 [main] INFO  org.example.Page.HomePage - url login page success
+22:05:03.709 [main] INFO  org.example.Page.HomePage - email is typed successfully
+22:05:03.784 [main] INFO  org.example.Page.HomePage - password is typed successfully
+22:05:04.159 [main] INFO  org.example.Page.HomePage - login on home page success
+22:05:04.214 [main] INFO  org.example.Page.HomePage - search button is displayed
+22:05:04.288 [main] INFO  org.example.TestSearch - computer is typed
+22:05:04.941 [main] INFO  org.example.TestSearch - button search is clicked 
+22:05:07.518 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:05:07.944 [main] INFO  org.example.Page.HomePage - click on login success
+22:05:07.958 [main] INFO  org.example.Page.HomePage - url login page success
+22:05:08.046 [main] INFO  org.example.Page.HomePage - email is typed successfully
+22:05:08.120 [main] INFO  org.example.Page.HomePage - password is typed successfully
+22:05:08.474 [main] INFO  org.example.Page.HomePage - login on home page success
+22:05:08.528 [main] INFO  org.example.Page.HomePage - search button is displayed
+22:05:12.839 [main] INFO  org.example.TestSuggestionDropDown - Apple MacBook Pro 13-inch is selected
+22:05:12.894 [main] INFO  org.example.Page.HomePage - picture Apple MacBook Pro 13-inch is displayed
+22:05:15.889 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+22:05:16.604 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+22:05:16.693 [main] INFO  org.example.TestPurchaseGiftCards - display 6 per page selected
+22:05:16.741 [main] INFO  org.example.Page.HomePage - click on add to cart gift success
+22:05:18.885 [main] INFO  org.example.TestPurchaseGiftCards - amar is typed
+22:05:18.984 [main] INFO  org.example.TestPurchaseGiftCards - hamadache is typed
+22:05:19.047 [main] INFO  org.example.Page.HomePage - Add to Cart is clicked
+22:05:19.048 [main] INFO  org.example.TestPurchaseGiftCards - click to Add to cart is confirmed
+22:05:19.356 [main] INFO  org.example.TestPurchaseGiftCards - 1 purchase is displayed on shopping cart
+22:05:21.954 [main] INFO  org.example.TestSelectRedShoes - Apparel is displayed
+22:05:22.084 [main] INFO  org.example.TestSelectRedShoes - hover over Apparel success
+22:05:23.259 [main] INFO  org.example.TestSelectRedShoes - shoes clicked success
+22:05:23.383 [main] INFO  org.example.Page.HomePage - red color is selected
+22:05:23.441 [main] INFO  org.example.TestSelectRedShoes - red shoes is displayed
+22:05:25.996 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:05:26.439 [main] INFO  org.example.Page.HomePage - click on login success
+22:05:26.456 [main] INFO  org.example.Page.HomePage - url login page success
+22:05:26.548 [main] INFO  org.example.Page.HomePage - email is typed successfully
+22:05:26.624 [main] INFO  org.example.Page.HomePage - password is typed successfully
+22:05:26.981 [main] INFO  org.example.Page.HomePage - login on home page success
+22:05:27.036 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+22:05:27.075 [main] INFO  org.example.TestHeaderDisplay - Jewelry is displayed
+22:05:27.117 [main] INFO  org.example.TestHeaderDisplay - books is displayed
+22:05:27.157 [main] INFO  org.example.TestHeaderDisplay - digital downloads is displayed
+22:05:27.200 [main] INFO  org.example.TestHeaderDisplay - Apparel is displayed
+22:05:27.240 [main] INFO  org.example.TestHeaderDisplay - electronics is displayed
+22:05:27.281 [main] INFO  org.example.TestHeaderDisplay - computers is displayed
+22:05:29.762 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:05:30.659 [main] INFO  org.example.Page.HomePage - click on login success
+22:05:30.675 [main] INFO  org.example.Page.HomePage - url login page success
+22:05:30.763 [main] INFO  org.example.Page.HomePage - email is typed successfully
+22:05:30.837 [main] INFO  org.example.Page.HomePage - password is typed successfully
+22:05:31.209 [main] INFO  org.example.Page.HomePage - login on home page success
+22:05:31.264 [main] INFO  org.example.TestHeaderGetText - text gift cards is got successfully
+22:05:31.302 [main] INFO  org.example.TestHeaderGetText - Jewelry is got successfully 
+22:05:31.341 [main] INFO  org.example.TestHeaderGetText - books is got successfully
+22:05:31.378 [main] INFO  org.example.TestHeaderGetText - digital downloads is got successfully
+22:05:31.416 [main] INFO  org.example.TestHeaderGetText - Apparel is got successfully
+22:05:31.454 [main] INFO  org.example.TestHeaderGetText - electronics is got successfully
+22:05:31.491 [main] INFO  org.example.TestHeaderGetText - computers is got successfully
+22:05:34.130 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:05:34.585 [main] INFO  org.example.Page.HomePage - click on login success
+22:05:34.598 [main] INFO  org.example.Page.HomePage - url login page success
+22:05:34.686 [main] INFO  org.example.Page.HomePage - email is typed successfully
+22:05:34.759 [main] INFO  org.example.Page.HomePage - password is typed successfully
+22:05:35.153 [main] INFO  org.example.Page.HomePage - login on home page success
+22:05:35.206 [main] INFO  org.example.TestFootersInformation - information is displayed
+22:05:35.244 [main] INFO  org.example.TestFootersInformation - sitemap is displayed
+22:05:35.283 [main] INFO  org.example.TestFootersInformation - shipping and returns is displayed
+22:05:35.322 [main] INFO  org.example.TestFootersInformation - privacy notice is displayed
+22:05:35.359 [main] INFO  org.example.TestFootersInformation - condition of us is displayed
+22:05:35.404 [main] INFO  org.example.TestFootersInformation - about us is displayed
+22:05:35.446 [main] INFO  org.example.TestFootersInformation - contact of us is displayed
+22:05:37.965 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:05:38.416 [main] INFO  org.example.Page.HomePage - click on login success
+22:05:38.427 [main] INFO  org.example.Page.HomePage - url login page success
+22:05:38.509 [main] INFO  org.example.Page.HomePage - email is typed successfully
+22:05:38.584 [main] INFO  org.example.Page.HomePage - password is typed successfully
+22:05:38.952 [main] INFO  org.example.Page.HomePage - login on home page success
+22:05:39.001 [main] INFO  org.example.TestFootersInformationGetText - Information is got success 
+22:05:39.037 [main] INFO  org.example.TestFootersInformationGetText - sitemap is got success
+22:05:39.077 [main] INFO  org.example.TestFootersInformationGetText - shipping & returns is got success
+22:05:39.116 [main] INFO  org.example.TestFootersInformationGetText - Privacy notice is got success
+22:05:39.152 [main] INFO  org.example.TestFootersInformationGetText - conditions of Use is got success
+22:05:39.195 [main] INFO  org.example.TestFootersInformationGetText - About Us is got success
+22:05:39.231 [main] INFO  org.example.TestFootersInformationGetText - Contact Us is got success
+22:05:42.259 [main] INFO  org.example.TestVote - good button is clicked
+22:05:42.325 [main] INFO  org.example.TestVote - vote is clicked success
+22:05:45.377 [main] INFO  org.example.TestVote - Only registered users can vote.
+22:05:45.395 [main] INFO  org.example.TestVote - error message is got 
+22:05:47.920 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:05:48.366 [main] INFO  org.example.Page.HomePage - click on login success
+22:05:48.379 [main] INFO  org.example.Page.HomePage - url login page success
+22:05:48.466 [main] INFO  org.example.Page.HomePage - email is typed successfully
+22:05:48.545 [main] INFO  org.example.Page.HomePage - password is typed successfully
+22:05:48.920 [main] INFO  org.example.Page.HomePage - login on home page success
+22:05:49.084 [main] INFO  org.example.TestComputersDesktops - hover over computers success
+22:05:49.854 [main] INFO  org.example.TestComputersDesktops - click on desktops success
+22:05:49.864 [main] INFO  org.example.TestComputersDesktops - URL page desktops success
+22:05:49.921 [main] INFO  org.example.TestComputersDesktops - Build your own computer is displayed
+22:05:52.581 [main] INFO  org.example.Page.HomePage - field login is displayed
+22:05:53.037 [main] INFO  org.example.Page.HomePage - click on login success
+22:05:53.051 [main] INFO  org.example.Page.HomePage - url login page success
+22:05:53.141 [main] INFO  org.example.Page.HomePage - email is typed successfully
+22:05:53.213 [main] INFO  org.example.Page.HomePage - password is typed successfully
+22:05:53.576 [main] INFO  org.example.Page.HomePage - login on home page success
+22:05:53.634 [main] INFO  org.example.Page.HomePage - gift cards is displayed
+22:05:54.588 [main] INFO  org.example.Page.HomePage - Gift Cards is clicked
+22:05:54.689 [main] INFO  org.example.TestReturnToHmePage - display 6 per page selected
+22:05:54.738 [main] INFO  org.example.Page.HomePage - click on add to cart gift success
+22:05:56.500 [main] INFO  org.example.TestReturnToHmePage - amar is typed
+22:05:56.588 [main] INFO  org.example.TestReturnToHmePage - hamadache is typed
+22:05:56.647 [main] INFO  org.example.Page.HomePage - Add to Cart is clicked
+22:05:56.647 [main] INFO  org.example.TestReturnToHmePage - click to Add to cart is confirmed
+22:05:56.902 [main] INFO  org.example.TestReturnToHmePage - 1 purchase is displayed on shopping cart
