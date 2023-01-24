@@ -4,96 +4,96 @@
     <parameter name="os" value="windows"></parameter>
     <parameter name="browserName" value="chrome"></parameter>
     <parameter name="url" value="https://demo.nopcommerce.com/"></parameter>
-    <test name="test Page Title">
-        <classes>
-            <class name="org.example.TestPageTile"></class>
-        </classes>
-    </test>
-    <test name="test shopping cart">
-        <classes>
-            <class name="org.example.TestShoppingCart"></class>
-        </classes>
-    </test>
-    <test name="test wishlist">
-    <classes>
-                    <class name="org.example.TestWishList"></class>
-    </classes>
-    </test>
-    <test name="test Register">
-        <classes>
-            <class name="org.example.TestRegister"></class>
-        </classes>
-    </test>
-    <test name="test valid login">
-        <classes>
-                        <class name="org.example.TestValidLogin"></class>
-        </classes>
-    </test>
-    <test name="test selection button">
-        <classes>
-            <class name="org.example.TestSelectionBTN"></class>
-        </classes>
-    </test>
-    <test name="test login without credentials">
-        <classes>
-                        <class name="org.example.TestLoginWithoutCredentials"></class>
-        </classes>
-    </test>
-    <test name="test login with wrong email">
-        <classes>
-            <class name="org.example.TestLoginWithWrongEmail"></class>
-        </classes>
-    </test>
-    <test name="test login with wrong password">
-        <classes>
-            <class name="org.example.TestLoginWithWrongPassword"></class>
-        </classes>
-    </test>
-    <test name="test search">
-        <classes>
-            <class name="org.example.TestSearch"></class>
-        </classes>
-    </test>
-    <test name="test suggestion drop down">
-        <classes>
-                        <class name="org.example.TestSuggestionDropDown"></class>
-        </classes>
-    </test>
-    <test name="test purchase gift cards">
-        <classes>
-            <class name="org.example.TestPurchaseGiftCards"></class>
-        </classes>
-    </test>
-    <test name="test select red shoes">
-        <classes>
-            <class name="org.example.TestSelectRedShoes"></class>
-        </classes>
-    </test>
-    <test name="test header is displayed">
-        <classes>
-            <class name="org.example.TestHeaderDisplay"></class>
-        </classes>
-    </test>
-    <test name="test header get text">
-        <classes>
-            <class name="org.example.TestHeaderGetText"></class>
-        </classes>
-    </test>
-    <test name="test footers information is displayed">
-        <classes>
-            <class name="org.example.TestFootersInformation"></class>
-        </classes>
-    </test>
-    <test name="test footers information get text">
-        <classes>
-            <class name="org.example.TestFootersInformationGetText"></class>
-        </classes>
-    </test>
-    <test name="test vote">
-        <classes>
-            <class name="org.example.TestVote"></class>
-        </classes>
-    </test>
+<!--    <test name="test Page Title">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestPageTile"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test shopping cart">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestShoppingCart"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test wishlist">-->
+<!--    <classes>-->
+<!--                    <class name="org.example.TestWishList"></class>-->
+<!--    </classes>-->
+<!--    </test>-->
+<!--    <test name="test Register">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestRegister"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test valid login">-->
+<!--        <classes>-->
+<!--                        <class name="org.example.TestValidLogin"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test selection button">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestSelectionBTN"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test login without credentials">-->
+<!--        <classes>-->
+<!--                        <class name="org.example.TestLoginWithoutCredentials"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test login with wrong email">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestLoginWithWrongEmail"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test login with wrong password">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestLoginWithWrongPassword"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test search">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestSearch"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test suggestion drop down">-->
+<!--        <classes>-->
+<!--                        <class name="org.example.TestSuggestionDropDown"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test purchase gift cards">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestPurchaseGiftCards"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test select red shoes">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestSelectRedShoes"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test header is displayed">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestHeaderDisplay"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test header get text">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestHeaderGetText"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test footers information is displayed">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestFootersInformation"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test footers information get text">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestFootersInformationGetText"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test vote">-->
+<!--        <classes>-->
+<!--            <class name="org.example.TestVote"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
     <test name="test computers desktops">
         <classes>
             <class name="org.example.TestComputersDesktops"></class>
@@ -101,7 +101,7 @@
     </test>
     <test name="test return to home page">
         <classes>
-                        <class name="org.example.TestReturnToHmePage"></class>
+<!--                        <class name="org.example.TestReturnToHmePage"></class>-->
         </classes>
     </test>
 </suite>

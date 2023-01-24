@@ -1,7 +1,0 @@
-org\example\Utility\utility.class
-org\example\reporting\ExtentTestManager.class
-org\example\reporting\TestLogger.class
-org\example\App.class
-org\example\Base\Common.class
-org\example\reporting\ExtentManager.class
-org\example\Utility\ExelReader.class
